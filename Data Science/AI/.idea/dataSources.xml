@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:sqlite:C:\Users\Alexander\OneDrive - Noroff Education AS\R&amp;D\MachineLearning\Wordlists\Wordlists\data.sql" uuid="48d15b23-a8c3-4b89-bda5-566d3a9d28ea">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Alexander\OneDrive - Noroff Education AS\R&amp;D\MachineLearning\Wordlists\Wordlists\data.sql</jdbc-url>
+      <driver-properties>
+        <property name="enable_load_extension" value="true" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="SQLITE_HOME" uuid="352ed3b9-e479-4ad5-a43a-552c0af310cd">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\OnedriveNoroff\OneDrive - Noroff Education AS\R&amp;D\MachineLearning\Wordlists\Wordlists\data.sql</jdbc-url>
+      <driver-properties>
+        <property name="enable_load_extension" value="true" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
